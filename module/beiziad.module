@@ -7,14 +7,18 @@
 DOMAIN-SUFFIX,beizi.biz,REJECT
 DOMAIN-SUFFIX,8ziben.com,REJECT
 
-# adukwai
+# kuaishou
 DOMAIN-SUFFIX,adukwai.com,REJECT
+DOMAIN-SUFFIX,adkwai.com,REJECT
+DOMAIN,open.e.kuaishou.com,REJECT
+DOMAIN,open.e.kuaishou.cn,REJECT
 
 # zijieapi
 DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT
 DOMAIN,log-api.pangolin-sdk-toutiao.com,REJECT
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN,gromore.pangolin-sdk-toutiao.com,REJECT
 DOMAIN,p9-be-pack-sign.pglstatp-toutiao.com,REJECT
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,REJECT
@@ -33,7 +37,10 @@ DOMAIN,i.gtimg.cn,REJECT
 DOMAIN,configure.rayjump.com,REJECT
 DOMAIN,gdfp.gifshow.com,REJECT
 DOMAIN,images.pinduoduo.com,REJECT
-DOMAIN,open.e.kuaishou.com,REJECT
 DOMAIN,toblog.ctobsnssdk.com,REJECT
+DOMAIN,v2-ad.video.yximgs.com,REJECT
+DOMAIN,hw-ot-ad.a.yximgs.com,REJECT 
+DOMAIN,ali-ad.a.yximgs.com,REJECT
+DOMAIN,sdktmp.hubcloud.com.cn,REJECT
 # ZJAdSDK初始化入口
 DOMAIN,static.luckas.cn,REJECT

@@ -38,6 +38,7 @@ DOMAIN,configure.rayjump.com,REJECT
 DOMAIN,gdfp.gifshow.com,REJECT
 DOMAIN,images.pinduoduo.com,REJECT
 DOMAIN,toblog.ctobsnssdk.com,REJECT
+DOMAIN,extlog.snssdk.com,REJECT
 DOMAIN,v2-ad.video.yximgs.com,REJECT
 DOMAIN,hw-ot-ad.a.yximgs.com,REJECT 
 DOMAIN,ali-ad.a.yximgs.com,REJECT
